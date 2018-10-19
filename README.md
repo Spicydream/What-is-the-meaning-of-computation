@@ -1,4 +1,5 @@
 # What-is-the-meaning-of-computation
+Computation is a term used to calculate a variable using computers
 
 # What
 What is computation?
