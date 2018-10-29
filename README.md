@@ -11,5 +11,5 @@ What can computation not do?
 # Who
 Who invented computation?
 
-#Reason
+# Reason
 Why do you want to learn programming? what problem are you trying to solve? The problem you are trying to solve, will programming help you archive what you are trying to archive?
